@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bazil Ur Rehman🙂</h1>
 <h3 align="center">A Student Of Web And Mobile Applications Develpment.</h3>
-<div style="text-align: center;">
-    <img alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0">
-</div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bazilkhan22&label=Profile%20views&color=0e75b6&style=flat" alt="bazilkhan22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bazilkhan22" alt="bazilkhan22" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0">
 
 - 🔭 I’m currently **Undergraduate student from SMI University.**
 
