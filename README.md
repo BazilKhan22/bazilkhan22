@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bazil Ur Rehman🙂</h1>
-<h3 align="center">A Student Of Web And Mobile Applications Develpment.</h3>
+<h3 align="center">A Student Of Web And Mobile Applications Development.</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0">
 
 - 🔭 I’m currently **Undergraduate student from SMI University.**
