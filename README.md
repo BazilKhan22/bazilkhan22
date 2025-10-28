@@ -2,9 +2,9 @@
 <h3 align="center">A Student Of Web And Mobile Applications Development.</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/v2/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=SQdrnHcfunUp3CIZMR-clLwQFjkIS9ShTlqTppgmlR0">
 
-- 🔭 I’m currently **Undergraduate student from SMI University.**
+- 🔭 I'm currently **Undergraduate student from SMI University.**
 
-- 🌱 I’m currently learning **Web And Mobile Applications Development**
+- 🌱 I'm currently learning **Web And Mobile Applications Development**
 
 - 💬 Ask me about **Any thing**
 
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazilkhan22&show_icons=true&locale=en" alt="bazilkhan22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazilkhan22&" alt="bazilkhan22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazilkhan22" alt="bazilkhan22" /></p>
